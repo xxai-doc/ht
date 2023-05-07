@@ -7,3 +7,4 @@ Kòd front-end nan sit entènèt la se sous louvri, akeyi yo ede optimize tradik
 * [kòd front-end](https://github.com/xxai-art/web)
 * [Pake lang pou sit la an antye](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pake lang pou modil login](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Sitwèb Dokimantasyon ki gen plizyè lang](https://github.com/xxai-doc)
