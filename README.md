@@ -17,14 +17,14 @@ Lang pwogramasyon front-end la se [@w5/coffee_plus](http://npmjs.com/@w5/coffee_
 
 Bati sou 3 pwojè sa yo
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Modèl markdown la, ki gen sifiks `.mdt` , kapab refere a fichye ekstèn ak yon sentaks ki sanble ak `<+ ./coffee_plus/import.js>` .
+  Sifiks la se `.mdt` , ou ka sèvi ak sentaks ki sanble ak `<+ ./coffee_plus/import.js>` pou fè referans ak dosye ekstèn, epi jenere markdown ak sifiks `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Tradiksyon Markdown pa pral tradui kòd ak lyen, epi yo pral kache fraz tradui yo. Si yo modifye tradiksyon an men tèks orijinal la pa modifye, egzekite li ankò pa pral ranplase modifikasyon tradiksyon an.
+  Tradiksyon Markdown pa pral tradui kòd ak lyen, epi yo pral kache fraz tradui yo. Si yo modifye tradiksyon an men tèks orijinal la pa modifye, egzekite li ankò pa pral ranplase modifikasyon tradiksyon an.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Fichye lang pou tradui sit wèb `yaml` pwodwi yo.
+  Fichye lang pou tradui sit wèb `yaml` pwodwi yo.
