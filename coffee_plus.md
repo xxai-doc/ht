@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , ajoute kèk karakteristik sou baz sentaks coffeescript, gade [coffee_plus](./coffee_plus.md) .
 
-* deklare varyab
+## deklare varyab
 
 ```
 + var1, var2
 ```
 
-* etikèt deklarasyon
+## etikèt deklarasyon
 
 `:$` se pou itilize ak [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* enpòte rapid
+## enpòte rapid
 
 ```
 > zx/globals:
